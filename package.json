@@ -1,0 +1,19 @@
+{
+  "name": "command handler source",
+  "version": "1.0.0",
+  "description": "command handler source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "open source",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "discord.js": "^12.5.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "ms": "^2.1.3"
+  }
+}
